@@ -1,0 +1,7 @@
+description: 'This workflow fetches the list of Nike IT Department personas, extracting
+  their name and email address, and stores the data in a list of dictionaries. As
+  there are no inputs, the processing will happen automatically when triggered.
+
+  '
+name: NikeITPersonasToSalesforce
+parameters: {}
