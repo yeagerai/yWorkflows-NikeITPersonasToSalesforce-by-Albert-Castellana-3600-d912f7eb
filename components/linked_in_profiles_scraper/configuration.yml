@@ -1,0 +1,4 @@
+description: Queries LinkedIn to find profiles of employees in the specified company
+  and department. Filters by company and department, returning a list of profile URLs.
+name: LinkedInProfilesScraper
+parameters: {}
