@@ -3,5 +3,7 @@ description: 'This workflow fetches the list of Nike IT Department personas, ext
   there are no inputs, the processing will happen automatically when triggered.
 
   '
+input-class: NikeITPersonasToSalesforceIn
 name: NikeITPersonasToSalesforce
+output-class: NikeITPersonasToSalesforceOut
 parameters: {}
